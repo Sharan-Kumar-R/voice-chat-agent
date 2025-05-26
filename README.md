@@ -168,7 +168,7 @@ voice-bot-project/
 ├── QuickAgent.py            # Main voice bot application
 ├── README.md                # This documentation
 ├── requirements.txt         # Python dependencies
-├── speech_to_text_stream.py # Speech-to-text streaming functionality
+├── speech_to_text.py        # Speech-to-text streaming functionality
 ├── system_prompt.txt        # System prompt configuration
 ├── text_to_speech.py        # Text-to-speech functionality
 └── myenv/                   # Virtual environment folder (created during setup)
