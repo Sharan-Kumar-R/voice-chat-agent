@@ -128,7 +128,7 @@ pip install -r requirements.txt
 
 2. Run the main voice bot application:
    ```bash
-   python QVoiceAgent.py
+   python VoiceAgent.py
    ```
 
 ### Customizing the Bot
@@ -165,7 +165,7 @@ voice-bot-project/
 ├── .env                     # Environment variables (API keys)
 ├── Chat_Bot.py              # Chat bot implementation
 ├── llm.py                   # Language model integration
-├── QuickAgent.py            # Main voice bot application
+├── VoiceAgent.py            # Main voice bot application
 ├── README.md                # This documentation
 ├── requirements.txt         # Python dependencies
 ├── speech_to_text.py        # Speech-to-text streaming functionality
