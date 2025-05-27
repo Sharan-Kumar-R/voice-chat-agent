@@ -2,6 +2,15 @@
 
 A voice-enabled AI chatbot that uses Deepgram for speech-to-text conversion and Groq for natural language processing.
 
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Flask](https://img.shields.io/badge/Backend-Flask-black?logo=flask&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Speech--to--Text-Deepgram-red?logo=deepgram)
+![Groq](https://img.shields.io/badge/LLM-Groq-blueviolet)
+![Twilio](https://img.shields.io/badge/Voice-Twilio-F22F46?logo=twilio&logoColor=white)
+![WebSocket](https://img.shields.io/badge/Streaming-WebSocket-brightgreen?logo=websocket&logoColor=white)
+
 ## Features
 
 - Real-time voice recognition using Deepgram
