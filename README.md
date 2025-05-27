@@ -27,7 +27,7 @@ A voice-enabled AI chatbot that uses Deepgram for speech-to-text conversion and 
 
 ### 2. Deepgram API Key
 
-1. Visit [Deepgram Console](https://console.deepgram.com/project/39cce778-24bb-4b9d-bb81-43ae477695a5/keys)
+1. Visit [Deepgram Console]([https://console.deepgram.com/])
 2. Create an account or sign in
 3. Generate a new API key
 4. Copy the API key for later use
