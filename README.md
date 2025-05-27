@@ -128,7 +128,7 @@ pip install -r requirements.txt
 
 2. Run the main voice bot application:
    ```bash
-   python QuickAgent.py
+   python QVoiceAgent.py
    ```
 
 ### Customizing the Bot
