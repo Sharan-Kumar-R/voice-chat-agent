@@ -1,18 +1,17 @@
 # Voice Bot Project
 
 🔊 Real-Time Voice AI Assistant using Groq LLaMA3 + Deepgram + LangChain
-
 This project is a real-time voice-based conversational AI assistant that integrates:
 
-   Groq’s LLaMA3 (via LangChain) for ultra-fast, high-quality conversational intelligence
+   🧠 Groq’s LLaMA3 (via LangChain) for ultra-fast, high-quality conversational intelligence
    
-   Deepgram STT (Speech-to-Text) for real-time transcription from microphone input
+   🎙️ Deepgram STT (Speech-to-Text) for real-time transcription from microphone input
    
-   Deepgram TTS (Text-to-Speech) for fast and natural voice responses using ffplay
+   🗣️ Deepgram TTS (Text-to-Speech) for fast and natural voice responses using ffplay
    
-   LangChain’s LLMChain with conversation memory to maintain chat context
+   🧠 LangChain’s LLMChain with conversation memory to maintain chat context
    
-   Built using Python (asyncio-based architecture)
+   🐍 Built using Python (asyncio-based architecture)
 
 ## Features
 
