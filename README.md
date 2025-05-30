@@ -9,6 +9,8 @@ This project is a real-time voice-based conversational AI assistant that integra
    🎙️ Deepgram STT (Speech-to-Text) for real-time transcription from microphone input
    
    🗣️ Deepgram TTS (Text-to-Speech) for fast and natural voice responses using ffplay
+   
+Core components such as LLM, STT, TTS, and the overall chatbot architecture have been documented to support comprehensive understanding and customization.
 
 ## Features
 
