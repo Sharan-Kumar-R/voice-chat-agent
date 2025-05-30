@@ -1,6 +1,7 @@
 # Voice Bot Project
 
-🔊 Real-Time Voice AI Assistant using Groq LLaMA3 + Deepgram + LangChain
+🔊 Real-Time Voice AI Assistant using Groq LLaMA3 + Deepgram + LangChain .
+
 This project is a real-time voice-based conversational AI assistant that integrates:
 
    🧠 Groq’s LLaMA3 (via LangChain) for ultra-fast, high-quality conversational intelligence
