@@ -9,10 +9,6 @@ This project is a real-time voice-based conversational AI assistant that integra
    🎙️ Deepgram STT (Speech-to-Text) for real-time transcription from microphone input
    
    🗣️ Deepgram TTS (Text-to-Speech) for fast and natural voice responses using ffplay
-   
-   🧠 LangChain’s LLMChain with conversation memory to maintain chat context
-   
-   🐍 Built using Python (asyncio-based architecture)
 
 ## Features
 
