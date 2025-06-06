@@ -8,29 +8,6 @@
   <img src="https://img.shields.io/badge/deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" alt="Deepgram">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/asyncio-306998?style=for-the-badge&logo=python&logoColor=white" alt="AsyncIO">
-  <img src="https://img.shields.io/badge/requests-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Requests">
-  <img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=python&logoColor=black" alt="Python-dotenv">
-  <img src="https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg">
-  <img src="https://img.shields.io/badge/speech--to--text-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Speech-to-Text">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/text--to--speech-FF4B4B?style=for-the-badge&logo=amazon-alexa&logoColor=white" alt="Text-to-Speech">
-  <img src="https://img.shields.io/badge/real--time--audio-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Real-time Audio">
-  <img src="https://img.shields.io/badge/conversational--ai-FF6F00?style=for-the-badge&logo=chatbot&logoColor=white" alt="Conversational AI">
-  <img src="https://img.shields.io/badge/llama3-8B2635?style=for-the-badge&logo=meta&logoColor=white" alt="Llama3">
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-<img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=white" alt="Deepgram">
-<img src="https://img.shields.io/badge/LangChain-4A90E2?style=for-the-badge&logo=LangChain&logoColor=white" alt="LangChain">
-<img src="https://img.shields.io/badge/Groq-0B132B?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMjQ3LjcgNjJjMCAxMi4xLTQuNCAyMy40LTEyLjQgMzEuOEwxNjggMTYxLjFjLTguMyA4LjctMTkuNiAxMy41LTMxLjUgMTMuNUgxMDhjLTI1LjIgMC00NS43LTIwLjUtNDUuNy00NS43di05LjFjMC0yNS4yIDIwLjUtNDUuNyA0NS43LTQ1LjdoMjMuOGMxMi4xIDAgMjMuNCA0LjQgMzEuOCAxMi40bDIwLjggMjIuMmM4LjcgOC4zIDEzLjUgMTkuNiAxMy41IDMxLjV2MjMuOGM2LjIgMCAxMi4xLTIuNCAxNi41LTYuOGwzMS44LTMxLjhjNC40LTQuNCA2LjgtMTAuMyA2LjgtMTYuNWMwLTI1LjItMjAuNS00NS43LTQ1LjgtNDUuN2gtOS4xYy0yNS4yIDAtNDUuNyAyMC41LTQ1LjcgNDUuN3YyMy44YzAgMTIuMS00LjQgMjMuNC0xMi40IDMxLjhMNzYuNyAxOTVjLTguMyA4LjctMTkuNiAxMy41LTMxLjUgMTMuNUgzNi4xYy0xOS45IDAtMzYtMTYuMS0zNi0zNlY2Mi4xYzAtMTkuOSAxNi4xLTM2IDM2LTMzaDE4My44YzE5LjkgMCAzNiAxNi4xIDM2IDM2djB6Ii8+PC9zdmc+" alt="Groq">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-</p>
-
 🔊 Real-Time Voice AI Assistant using Groq LLaMA3 + Deepgram + LangChain .
 
 This project is a real-time voice-based conversational AI assistant that integrates:
