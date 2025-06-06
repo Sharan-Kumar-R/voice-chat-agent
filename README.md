@@ -1,4 +1,4 @@
-# Voice Bot Project
+# Real-time voice-enabled AI chatbot
 
 🔊 Real-Time Voice AI Assistant using Groq LLaMA3 + Deepgram + LangChain .
 
